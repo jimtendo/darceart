@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/Main.qml</file>
+        <file>QML/Effect.qml</file>
+        <file>QML/Video.qml</file>
+    </qresource>
+</RCC>
